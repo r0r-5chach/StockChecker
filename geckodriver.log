@@ -1,0 +1,1500 @@
+1645630759628	geckodriver	INFO	Listening on 127.0.0.1:63723
+1645630765581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63724" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofiley0b5Jh"
+1645630766525	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofiley0b5Jh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63724/devtools/browser/12327c51-1f0d-4fbf-b98d-702196b3659a
+1645630772172	Marionette	INFO	Listening on port 63730
+1645630772612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645630893976	Marionette	INFO	Stopped listening on port 63731645630897428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62877" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileC6kAaE"
+1645630898265	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileC6kAaE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62877/devtools/browser/e93b424c-412e-4c74-b570-62fd0cda9457
+1645630903130	Marionette	INFO	Listening on port 62885
+1645630903254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645631313402	Marionette	INFO	Stopped listening on port 62885
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be los1645631314364	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilevCpriB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55906/devtools/browser/26f4669f-3de3-47dc-8096-cf3a1c00a606
+1645631316769	Marionette	INFO	Listening on port 55911
+1645631317140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645631350995	geckodriver	INFO	Listening on 127.0.0.1:55988
+1645631354185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55989" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileACsQKj"
+1645631355515	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileACsQKj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55989/devtools/browser/1932ade0-b53f-4832-afb3-bdb40d2c590f
+1645631360924	Marionette	INFO	Listening on port 55994
+1645631361224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483658/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483658/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal2147483658/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1645631415813	Marionette	INFO	Stopped listening on port 55994
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_AccumulateChildHistograms) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+1645631420423	geckodriver	INFO	Listening on 127.0.0.1:51441
+1645631423643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51442" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileCeBccm"
+1645631424779	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileCeBccm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51442/devtools/browser/670c6cf6-fbee-45b1-a898-43cab0d0af65
+1645631429275	Marionette	INFO	Listening on port 51447
+1645631429497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645631778182	Marionette	INFO	Stopped listening on port 51447
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+onette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofile3708mb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53322/devtools/browser/23d776ba-eaef-412c-b24b-4b8f703b2125
+1645631749304	Marionette	INFO	Listening on port 53328
+1645631749551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+1645631778637	Marionette	INFO	Stopped listening on port 53321645631779990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53410" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilelpgpd1"
+1645631780773	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilelpgpd1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53410/devtools/browser/676af1ff-ba58-4565-8846-c10cb60238ea
+1645631784586	Marionette	INFO	Listening on port 53422
+1645631784787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645631808207	Marionette	INFO	Stopped listening on port 53422
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1645631998324	geckodriver	INFO	Listening on 127.0.0.1:53069
+1645632049866	geckodriver	INFO	Listening on 127.0.0.1:53078
+1645632059745	geckodriver	INFO	Listening on 127.0.0.1:53085
+1645632062816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53086" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileyh6AQg"
+1645632063513	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileyh6AQg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53086/devtools/browser/3331476f-e291-4844-9317-c92508d90e9b
+1645632067899	Marionette	INFO	Listening on port 53092
+1645632068154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645632126887	Marionette	INFO	Stopped listening on port 53091645632129023	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53169" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileMxtn2T"
+1645632129684	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileMxtn2T\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53169/devtools/browser/37db32fa-d03e-4411-84d0-c2027331859e
+1645632133150	Marionette	INFO	Listening on port 53178
+1645632133269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1645632423855	Marionette	INFO	Stopped listening on port 53178
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645632426521	Marionette	INFO	Stopped listening on port 60824
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+cal\\Temp\\rust_mozprofile6lu5n2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61948/devtools/browser/055e5f73-73a2-458b-b154-8ee28699cf9c
+1645632292512	Marionette	INFO	Listening on port 61954
+1645632292738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645632428150	Marionette	INFO	Stopped listening on port 61954
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+c-4c32-bccb-469fa112fa38
+1645632348502	Marionette	INFO	Listening on port 62079
+1645632348987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645632428313	Marionette	INFO	Stopped listening on port 62079
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65105" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilezJ9JD1"
+1645632410794	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilezJ9JD1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65105/devtools/browser/c6c2756c-0847-4c52-84b6-5348b96bdaa1
+1645632419435	Marionette	INFO	Listening on port 65112
+1645632419530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645632638443	Marionette	INFO	Stopped listening on port 65111645632639823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56756" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileEWVXUh"
+1645632640895	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileEWVXUh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56756/devtools/browser/cebaa751-64db-43f3-9084-6406e108d8f6
+1645632646799	Marionette	INFO	Listening on port 56766
+1645632648258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645632702915	Marionette	INFO	Stopped listening on port 56766
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54880" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofile5jvJQl"
+1645632689646	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofile5jvJQl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54880/devtools/browser/d7e1e8ce-c07b-44c5-93f5-8a14e96dde0d
+1645632694431	Marionette	INFO	Listening on port 54885
+1645632694789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645632777642	Marionette	INFO	Stopped listening on port 54885
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55016" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilesk13Qj"
+1645632773930	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilesk13Qj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55016/devtools/browser/5b618378-d00a-4bd5-aca7-8aecc02fa510
+1645632780429	Marionette	INFO	Listening on port 55021
+1645632780739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645632943227	Marionette	INFO	Stopped listening on port 55021
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59596" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileeC5Ngd"
+1645632805727	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileeC5Ngd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59596/devtools/browser/99d72f6c-494b-4b6f-aaad-d7b7c65cdffa
+1645632810887	Marionette	INFO	Listening on port 59601
+1645632811264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+JavaScript warning: https://cdn.gbqofs.com/johnlewis/p/detector-dom.min.js, line 110: asm.js type error: cannot create array view without an asm.js heap parameter
+1645632859021	Marionette	INFO	Stopped listening on port 59601
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1645633125238	geckodriver	INFO	Listening on 127.0.0.1:60368
+1645633128344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60369" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileqgLFXF"
+1645633129012	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileqgLFXF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60369/devtools/browser/33bc37bb-72ea-4043-b10a-bbba77072f21
+1645633133844	Marionette	INFO	Listening on port 60375
+1645633134183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645633198886	Marionette	INFO	Stopped listening on port 60371645633199739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60493" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileKFRvdB"
+1645633200283	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileKFRvdB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60493/devtools/browser/f36bfcfa-0e6c-42dd-90ba-9aacc456c227
+1645633203643	Marionette	INFO	Listening on port 60502
+1645633203956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645633393893	Marionette	INFO	Stopped listening on port 60502
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child]console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileKYrUp2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60681/devtools/browser/d746a6af-f35e-48a6-8c6f-935bd13adae0
+1645633398441	Marionette	INFO	Listening on port 60687
+1645633398779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645633450514	Marionette	INFO	Stopped listening on port 60681645633451570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60805" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileINbj88"
+1645633452383	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileINbj88\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60805/devtools/browser/5a35a916-0ca7-459a-8549-a19a3ef015d1
+1645633456347	Marionette	INFO	Listening on port 60815
+1645633456387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645633570606	Marionette	INFO	Stopped listening on port 60815
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilet5OgwS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60940/devtools/browser/5ec64987-0b8b-4630-99b8-33a1bbea3fac
+1645633538506	Marionette	INFO	Listening on port 60945
+1645633538967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645633598235	Marionette	INFO	Stopped listening on port 60945
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recvJavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645633634507	geckodriver	INFO	Listening on 127.0.0.1:61295
+1645633637587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61296" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileTWz09k"
+*** You are running in headless mode.
+1645633638280	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileTWz09k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61296/devtools/browser/f3e9ab93-e467-4819-add7-c6084346c6cf
+1645633640250	Marionette	INFO	Listening on port 61301
+1645633640761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645633646761	Marionette	INFO	Stopped listening on port 61301
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1645633682815	geckodriver	INFO	Listening on 127.0.0.1:61417
+1645633685897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61418" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileCXPj3X"
+1645633686485	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileCXPj3X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61418/devtools/browser/52aed540-5dd5-4ae5-813e-519575478e0f
+1645633690157	Marionette	INFO	Listening on port 61423
+1645633690220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645633699634	Marionette	INFO	Stopped listening on port 61423
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_AccumulateChildHistograms) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1645633832380	geckodriver	INFO	Listening on 127.0.0.1:61583
+1645633835474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61584" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileaLu8ET"
+1645633836631	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileaLu8ET\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61584/devtools/browser/da2228e6-1f3d-451f-ad50-b0a6376f3a0a
+1645633841468	Marionette	INFO	Listening on port 61589
+1645633841830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645633848841	Marionette	INFO	Stopped listening on port 61589
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1645633954951	geckodriver	INFO	Listening on 127.0.0.1:61719
+1645633958044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61720" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilexTEEzf"
+1645633958689	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilexTEEzf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61720/devtools/browser/49b387d5-73da-47bf-af66-380bb5fbe774
+1645633963036	Marionette	INFO	Listening on port 61725
+1645633963382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645633972773	Marionette	INFO	Stopped listening on port 61725
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+1645633997113	geckodriver	INFO	Listening on 127.0.0.1:61849
+1645634000188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61850" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileF1hURD"
+1645634000767	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileF1hURD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61850/devtools/browser/efeac9b2-b184-4e39-b4bb-1749295cd196
+1645634006483	Marionette	INFO	Listening on port 61855
+1645634006619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645634017747	Marionette	INFO	Stopped listening on port 61855
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645634042388	geckodriver	INFO	Listening on 127.0.0.1:61963
+1645634045443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61964" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilekdp4EP"
+1645634046098	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilekdp4EP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61964/devtools/browser/57b18d66-e98f-4751-b224-be07bb2dffba
+1645634050119	Marionette	INFO	Listening on port 61970
+1645634050303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645634056842	Marionette	INFO	Stopped listening on port 61970
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\joshu\AppData\Local\Temp\rust_mozprofilekdp4EP\protections.sqlite
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645634110513	geckodriver	INFO	Listening on 127.0.0.1:62094
+1645634113627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62095" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileuiDDa1"
+1645634114334	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileuiDDa1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62095/devtools/browser/60a61808-42ad-4171-b3ef-9c5018c868d7
+1645634118228	Marionette	INFO	Listening on port 62101
+1645634118446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+JavaScript warning: https://cdn.gbqofs.com/johnlewis/p/detector-dom.min.js, line 110: asm.js type error: cannot create array view without an asm.js heap parameter
+1645634125633	Marionette	INFO	Stopped listening on port 62101
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\joshu\AppData\Local\Temp\rust_mozprofileuiDDa1\protections.sqlite
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1645634147848	geckodriver	INFO	Listening on 127.0.0.1:62220
+1645634150907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62221" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilebI2UJ3"
+1645634151434	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilebI2UJ3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62221/devtools/browser/662a0406-7ae8-40d0-adb2-bd193f649f8b
+1645634155182	Marionette	INFO	Listening on port 62226
+1645634155707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645634163564	Marionette	INFO	Stopped listening on port 62226
+1645634308279	geckodriver	INFO	Listening on 127.0.0.1:62344
+1645634311409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62345" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilexuK4Pp"
+1645634312277	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilexuK4Pp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62345/devtools/browser/e0c7a443-d0bf-4066-8666-8dfa8a53425b
+1645634316208	Marionette	INFO	Listening on port 62350
+1645634316376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645634332411	Marionette	INFO	Stopped listening on port 62350
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1645634478665	geckodriver	INFO	Listening on 127.0.0.1:62477
+1645634481745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62478" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofile2ZBLHd"
+1645634482476	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofile2ZBLHd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62478/devtools/browser/b910ffd9-4ce3-464a-9d5e-549e080bc322
+1645634486616	Marionette	INFO	Listening on port 62483
+1645634487123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645634492991	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645634533287	Marionette	INFO	Stopped listening on port 62481645634535666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62594" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileEi8tdq"
+1645634536384	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileEi8tdq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62594/devtools/browser/1caf19b4-ed3c-4c87-92ca-ef1475c5b05e
+1645634539622	Marionette	INFO	Listening on port 62604
+1645634539890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/fashion-ui/_next/static/chunks/181-eaaf218ac967d9eb52fb.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/-QrrTj/1z/Qu/9u_C/-WdfwcjqAZ/1hE7c24Ga7fu/bgAfAQ/ZX/FtSAVBajQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recently-viewed-items/static/js/3.1e46a65.3.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/recommendations-ui/v2/static/js/jl-recommendations-panel.e2f0ccf.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-content.8f1bad0.2.chunk.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
