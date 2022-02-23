@@ -5,7 +5,7 @@ from mailer import mail_user
 from selenium.webdriver.firefox.options import Options
 
 options = Options()
-options.headless = False
+options.headless = True
 
 driver = webdriver.Firefox(options=options)
 driver.get("https://www.johnlewis.com/dyson-airwrap-complete-hair-styler/p4233412")
@@ -20,3 +20,4 @@ if not soup.find(text="Out of stock") and not soup.find(text="Out of stock onlin
     mail_user("j.perry20011@gmail.com", "The Dyson Airwrap is in stock!", "Buy now!\n https://www.johnlewis.com/dyson"
                                                                           "-airwrap-complete-hair-styler/p4233412")
 
+driver.quit()

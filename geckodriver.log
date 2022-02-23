@@ -1498,3 +1498,5 @@ JavaScript warning: https://www.johnlewis.com/user-content-ui/static/js/jl-user-
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.johnlewis.com"
+1645634915871	Marionette	INFO	Stopped listening on port 62604
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
